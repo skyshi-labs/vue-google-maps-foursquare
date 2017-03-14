@@ -1,4 +1,4 @@
-# vue-forsquare-gmaps
+# vue-foursquare-googlemaps
 
 > vue integrate with foursquare and google maps
 
