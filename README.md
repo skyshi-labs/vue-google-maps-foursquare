@@ -22,5 +22,3 @@ npm run start
 ```
 
 ### feature vuex in branch feature-vuex
-rename services.example.js in folder config to services.js
-fill key service google maps and foursquare
