@@ -4,7 +4,7 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 import * as VueGoogleMaps from 'vue2-google-maps'
-import GoogleConfig from '../config/googlemaps.js'
+import services from '../config/services.js'
 import './assets/css/style.css'
 import VueProgressBar from 'vue-progressbar'
 
@@ -16,7 +16,7 @@ Vue.use(VueProgressBar, {
 })
 Vue.use(VueGoogleMaps, {
   load: {
-    key: GoogleConfig.api_key,
+    key: services.googlemaps.key,
     libraries: 'places'
   }
 })
