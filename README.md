@@ -1,6 +1,6 @@
 # vue-foursquare-googlemaps
 
-> vue integrate with foursquare and google maps
+> vue integrate with foursquare and google maps - [Presentation](http://bit.ly/skyshivue)
 
 ## Services Config
 rename services.example.js in folder config to services.js
