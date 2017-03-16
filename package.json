@@ -12,9 +12,7 @@
     "lint": "eslint --ext .js,.vue src"
   },
   "dependencies": {
-    "clean-css": "^4.0.8",
     "connect": "^3.6.0",
-    "csso": "^2.3.1",
     "marker-clusterer-plus": "^2.1.4",
     "node-foursquare-venues": "^1.1.0",
     "serve-static": "^1.12.0",
